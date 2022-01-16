@@ -11,5 +11,8 @@
 		?>
 		<br>
 		<?= 'Olá, mundo! - tag impressão'?>
+		<?php 
+			echo'Me livrei da maldição! - tag padrão';
+		?>
 	</body>
 </html>
