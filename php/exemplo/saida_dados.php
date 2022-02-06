@@ -5,12 +5,13 @@
 	<title></title>
 </head>
 <body>
+
 	<?php 
 
 
-	echo'Olá mundo';
-	print_r('me livrei da maldição');
+		echo'Olá mundo';
 
+		print_r('me livrei da maldição');
 
 	?>
 </body>
