@@ -5,7 +5,6 @@
 		<title>Embutindo bloco de código PHP</title>
 	</head>
 	<body>
-
 		<?php 
 			echo'Olá, mundo! - tag padrão';
 		?>
