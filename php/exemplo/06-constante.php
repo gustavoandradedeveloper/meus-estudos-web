@@ -8,8 +8,9 @@
     // echo $BD_USUARIO ;
 
 
-    define('BD_URL','');
+    define('BD_URL','https://localhost/meu-projeto');
     define('BD_USUARIO','root');
     define('BD_SENHA','');
+
 
 ?>
