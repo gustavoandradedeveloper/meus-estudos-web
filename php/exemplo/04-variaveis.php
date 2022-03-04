@@ -6,6 +6,7 @@
     $casado = false;
 
     echo $nome .' '.  $idade;
+    
     print ($casado .   $peso);
 
 ?>
