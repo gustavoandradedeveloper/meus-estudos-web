@@ -1,8 +1,8 @@
 <?php 
 
-//comentarios de uma linha
+// comentarios de uma linha
 
-#comentario estilo shell
+# comentario estilo shell
 
 /*
     comentário de varias linhas
